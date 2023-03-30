@@ -3,7 +3,7 @@ An application that will generate a random password.
 
 The purpose of this project is to provide (upon generation) users with the ability to randomly generate a string of characters to use as a password.
 
-![mila icon](https://user-images.githubusercontent.com/123839303/228979073-7e97232d-3b2f-46f4-8b45-a8f83347c500.jpg)
+![Password Capture](https://user-images.githubusercontent.com/123839303/228979132-2bc423b5-09a3-442d-b73f-c7a3d1b7dfbb.jpeg)
 
 ## Website Location
 
