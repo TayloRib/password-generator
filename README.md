@@ -1,14 +1,22 @@
-//TODO: will have to make arrays of lower and upper letters, numbers, and symbols
+# Random Password Generator
+An application that will generate a random password.
 
-//TODO: make generatePassword function
-//TODO: prompt for password length is a number
-//TODO: if statment if number is above 8 && below 128
-//TODO: confirm for lowercase, uppercase, numeric and special characters
-//TODO: store there response in a variable
-//TODO: if statment for each confirm and if it is a yes or true I would push or add random characters to a big array of all characters selected so far.
-//TODO: for loop while i is less than there answer for num length prompt
-//TODO: in this for loop we would randomly pull characters from the big array
-//TODO: pull random characters from the array using math.random 
-//TODO: have a var declared above for loop
-//TODO: that var += theRandomChar
-//TODO: return the password var
+The purpose of this project is to provide (upon generation) users with the ability to randomly generate a string of characters to use as a password.
+
+![mila icon](https://user-images.githubusercontent.com/123839303/228979073-7e97232d-3b2f-46f4-8b45-a8f83347c500.jpg)
+
+## Website Location
+
+https://taylorib.github.io/password-generator/
+
+## Installation
+N/A
+
+## Usage
+Users can modify aspects of the password to contain values of: uppercase letters, lowercase letters, numbers, and/or symbols between 8 and 128 characters in length. 
+
+## Credits
+N/A
+
+## License
+Please refer to the license in the repo.
